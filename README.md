@@ -8,5 +8,5 @@
 
 
 # MY Profile
-I have completed Msc in Space and Astronautics. I will be working on machine learning and artificial intelligence problems 
-
+*** I have completed Msc in Space and Astronautics. I will be working on machine learning and artificial intelligence problems.
+***  In future, there will be more files added into the private repository.
